@@ -64,3 +64,9 @@ Kaggle (Dataset sourcing)
 Data Quality Issues: Found inconsistencies in industry names, date formats, and duplicate entries.
 
 Solution Impact: Cleaned data is now ready for analysis (e.g., layoffs trends by industry/country).
+
+📈 Next Steps
+Add visualizations (e.g., Tableau/Power BI).
+
+Perform exploratory analysis on cleaned data.
+
